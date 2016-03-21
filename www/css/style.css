@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+.home{
+  text-align: center;
+  padding: 15px;
+}
+.eu{
+  border-radius: 50%;
+  width: 270px;
+  margin: 10px auto;
+}
+.sobre{
+  padding: 15px;
+  margin-bottom: 30px;
+}
